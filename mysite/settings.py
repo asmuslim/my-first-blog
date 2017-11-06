@@ -26,7 +26,7 @@ SECRET_KEY = 'b2-d+#js$*-uzow&t^yj4qg7s&r)(-hw-$ai&_f51_njt04t%$'
 DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1',
- '<name_user>.pythonanywhere.com']
+ 'api4ps.pythonanywhere.com']
 
 
 # Application definition
